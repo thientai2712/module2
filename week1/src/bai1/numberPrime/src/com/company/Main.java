@@ -8,22 +8,23 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập number: ");
         int number = scanner.nextInt();
-        System.out.printf("%d Số nguyên tố nhỏ hơn là: \n", number);
-        int dem = 0;
+        System.out.printf("%d Số nguyên tố đầu tiên là: \n", number);
+        int cout = 0;
         int i = 2;
-        while (dem < number){
-            if (findPrime(i)){
+        while (cout < number){
+            if (isPrime(i)){
                 System.out.print(i + " ");
-                dem++;
+                cout++;
+                cout++;
             }
             i++;
         }
     }
 
-    public static boolean findPrime(int number) {
+    public static boolean isPrime(int number) {
         if (number < 2) {
             return false;
-        } else {
+        }
             int i = 2;
             boolean check = true;
             while (i <= Math.sqrt(number)) {
@@ -33,12 +34,6 @@ public class Main {
                 }
                 i++;
             }
-            if (check) {
-                return true;
-            } else {
-                return false;
-            }
-
-        }
+            return check;
     }
 }
