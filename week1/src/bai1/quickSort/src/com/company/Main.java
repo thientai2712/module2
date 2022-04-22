@@ -10,7 +10,7 @@ public class Main {
         printArray(arr);
 
         Main ob = new Main();
-        ob.sort(arr, 0, index - 1);
+        ob.quickSort(arr, 0, index - 1);
 
         System.out.println("Mảng sau khi sắp xếp:");
         printArray(arr);
@@ -33,11 +33,11 @@ public class Main {
         return i + 1;
     }
 
-    void sort(int arr[], int low, int high) {
+    void quickSort(int arr[], int low, int high) {
         if (low < high) {
             int pi = partition(arr, low, high);
-            sort(arr, low, pi - 1);
-            sort(arr, pi + 1, high);
+            quickSort(arr, low, pi - 1);
+            quickSort(arr, pi + 1, high);
         }
     }
 
