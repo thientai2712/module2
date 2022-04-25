@@ -18,7 +18,7 @@ public class FanClass {
         speed = fast;
         on = b;
         radius = i;
-        color = "blue";
+        color = getColor;
     }
     public static int getSlow(){
         return SLOW;
@@ -64,7 +64,7 @@ public class FanClass {
     }
     public String toString(){
         if (on == true){
-            return "\nFan speed: " + getSpeed()+ ", color:"+color+ ", radius: "+radius+"\n";
+            return "\nFan speed: " + getSpeed()+ isOn() + ", color:"+color+ ", radius: "+radius+"\n";
         }else {
             return "\nFan color: " + color + ", radius: " + radius +
                     "\nfan is off\n";
