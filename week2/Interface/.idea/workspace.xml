@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8bd9d17-1ad5-4597-892b-93904a3e1105" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/src/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/src/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/src/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/src/src/com/company/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/src/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/src/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Barkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/demo/Runable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/baitap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/baitap3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/dateformat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/maxArray/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/src/maxArray/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/minArray/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/src/minArray/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/rectangularLayer/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/src/rectangularLayer/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/thuchanh7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/src/week1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/week1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28QE3hDzMceb6TGn9cDGImfHZig" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week2" />
+  </component>
+  <component name="RunManager" selected="Application.Animal">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract_Interface.Animal" />
+      <module name="week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstract_Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <module name="week2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Animal" />
+        <item itemvalue="Application.RectangleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8bd9d17-1ad5-4597-892b-93904a3e1105" name="Changes" comment="" />
+      <created>1651140218063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651140218063</updated>
+      <workItem from="1651140223266" duration="1254000" />
+      <workItem from="1651151371625" duration="5221000" />
+      <workItem from="1651195068740" duration="414000" />
+      <workItem from="1651218769485" duration="43000" />
+      <workItem from="1651227109109" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

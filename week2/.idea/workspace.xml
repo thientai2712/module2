@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e067f3-5f73-46ab-9f49-7429afb89be4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/MylistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/dsastackqueue/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/dsastackqueue/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/dsastackqueue/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/dsastackqueue/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/dsastackqueue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/linkedlist/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/mylist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/mylist/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/queue/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/stack/Parantheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/stackarray/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mylist/src/com/company/stacks/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_pattern/src/com/company/AdvancedBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_pattern/src/com/company/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adapter_pattern/src/com/company/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/data/order-items.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/data/orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/data/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/models/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/IOderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/OrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/utils/AppUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/utils/CSVUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/utils/InstantUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/utils/ValidateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/AdminView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/InputOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/MainLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/OrderView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/OrderViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/ProductView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/ProductViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study/src/com/company/views/UserViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/com/company/demomylist/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/com/company/demomylist/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/com/company/demomylist/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/com/company/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/com/company/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sort/src/com/company/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sort/src/com/company/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/src/src/com/company/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparable/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparable/src/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparable/src/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparable/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Orderview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ProductView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/UserViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/NhiPhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/ThapPhanToNhiPhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Shoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Barkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/demo/Runable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/baitap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/baitap3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/dateformat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/maxArray/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/maxArray/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/minArray/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/minArray/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/rectangularLayer/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/src/rectangularLayer/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/thuchanh7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/src/week1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/week1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28XkM0XdehGwR6zXA2tEIXQSavz" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../case_study" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.NhiPhan">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="demo2" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NhiPhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.NhiPhan" />
+      <module name="demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThapPhanToNhiPhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.ThapPhanToNhiPhan" />
+      <module name="demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NhiPhan" />
+        <item itemvalue="Application.ThapPhanToNhiPhan" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e067f3-5f73-46ab-9f49-7429afb89be4" name="Changes" comment="" />
+      <created>1651370267061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651370267061</updated>
+      <workItem from="1651370269581" duration="7827000" />
+      <workItem from="1651627851089" duration="426000" />
+      <workItem from="1651629201558" duration="3331000" />
+      <workItem from="1651647154067" duration="375000" />
+      <workItem from="1651713699007" duration="1647000" />
+      <workItem from="1651725632592" duration="1024000" />
+      <workItem from="1651733514706" duration="3319000" />
+      <workItem from="1651758673500" duration="29000" />
+      <workItem from="1651891506171" duration="1649000" />
+      <workItem from="1651893300345" duration="613000" />
+      <workItem from="1651999555380" duration="39000" />
+      <workItem from="1652776534575" duration="106000" />
+      <workItem from="1652776815872" duration="2979000" />
+      <workItem from="1652798745024" duration="686000" />
+      <workItem from="1652838374471" duration="9983000" />
+      <workItem from="1652884330755" duration="225000" />
+      <workItem from="1652926926459" duration="262000" />
+      <workItem from="1653269675398" duration="2676000" />
+      <workItem from="1653306790152" duration="593000" />
+      <workItem from="1653354488089" duration="2955000" />
+      <workItem from="1653400266527" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/demo/NhiPhan.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

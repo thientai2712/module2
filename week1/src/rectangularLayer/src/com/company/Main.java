@@ -1,4 +1,6 @@
-package com.company;
+package bai1.rectangularLayer.src.com.company;
+
+import com.company.Square;
 
 import java.util.Scanner;
 

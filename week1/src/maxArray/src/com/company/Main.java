@@ -1,4 +1,4 @@
-package com.company;
+package bai1.maxArray.src.com.company;
 
 public class Main {
 
