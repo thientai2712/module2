@@ -56,6 +56,8 @@ public class ProductService implements IProductService {
                 String description = newProduct.getTitle();
                 if (description != null && !description.isEmpty())
                     product.setName(newProduct.getTitle());
+                CSVUtils.write(PATH, products);
+                break;
             }
         }
     }

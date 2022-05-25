@@ -3,11 +3,11 @@ package com.company.models;
 import java.time.Instant;
 
 public class Product {
-    long id;
-    String name;
-    Double price;
-    Integer quantity;
-    String description;
+    private long id;
+    private String name;
+    private Double price;
+    private Integer quantity;
+    private String description;
 
     public Product() {
 
@@ -20,6 +20,7 @@ public class Product {
         this.quantity = quantity;
         this.description = description;
     }
+
     public static Product parse(String record) {
         String[] fields = record.split(",");
         long id = Long.parseLong(fields[0]);
@@ -27,7 +28,7 @@ public class Product {
         double price = Double.parseDouble(fields[2]);
         int quantity = Integer.parseInt(fields[3]);
         String description = fields[4];
-        return new Product(id, name, price, quantity,description);
+        return new Product(id, name, price, quantity, description);
     }
 
     public long getId() {

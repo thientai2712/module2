@@ -1,6 +1,7 @@
 package com.company.views;
 
 import com.company.utils.AppUtils;
+import com.company.utils.CSVUtils;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -36,6 +37,7 @@ public class ProductViewLauncher {
                     case 6:
                         break;
                     case 7:
+                        //CSVUtils.write(productView.showProducts(InputOption.SHOW));
                         break;
                     case 8:
                         break;
@@ -63,7 +65,7 @@ public class ProductViewLauncher {
         System.out.println("*    2. Thêm mới                         *");
         System.out.println("*    3. Cập nhật                         *");
         System.out.println("*    4. Xóa                              *");
-        System.out.println("*    5. Sắp xếp giá tăng dần             *");
+        System.out.println("*    5. Sắp xếp giá tăng dần theo giá    *");
         System.out.println("*    6. Tìm kiếm sản phầm có giá đắt nhất*");
         System.out.println("*    7. Đọc từ file                      *");
         System.out.println("*    8. Ghi từ file                      *");
